@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Heart attack prediction analysis  using machine learning</h3>
+  <h2 align="center">Heart attack prediction analysis  using machine learning</h2>
 
 </p>
 
@@ -25,8 +25,7 @@ This project mainly focused on prediction of the two classes, which is possible 
 ## Built With
 
 This  project is built using supervised machine learning algorithms, which model created by RandomForestClassifier
-
-/github/image.png
+![Alt text](github/image.png)
 
 ## Getting Started
 
