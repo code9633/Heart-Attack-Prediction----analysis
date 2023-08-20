@@ -25,6 +25,9 @@ This project mainly focused on prediction of the two classes, which is possible 
 ## Built With
 
 This  project is built using supervised machine learning algorithms, which model created by RandomForestClassifier
+
+
+
 ![Alt text](github/image.png)
 
 ## Getting Started
